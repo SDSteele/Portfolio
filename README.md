@@ -13,7 +13,7 @@ Applied penetration testing, network security, and vulnerability analysis.
 - 🔍 **Nmap Recon Reports** → [https://github.com/SDSteele/Cyber_Labs/tree/main/nmap]  
   *Scanning, fingerprinting, and vulnerability analysis of test networks.*  
 
-- 🧰 **Custom Security Scripts** → [https://github.com/SDSteele/Cyber_Labs/tree/main/custom%20security%20scripts  
+- 🧰 **Custom Security Scripts** → [https://github.com/SDSteele/Cyber_Labs/tree/main/custom%20security%20scripts]
   *Python and Bash scripts for automation, log parsing, and reconnaissance.*  
 
 - ⚔️ **Capture the Flag (CTF) Walkthroughs** → [Repo Link]  
