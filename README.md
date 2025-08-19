@@ -24,14 +24,9 @@ Applied penetration testing, network security, and vulnerability analysis.
 ## 💻 Programming Projects  
 Software development work highlighting problem-solving, algorithms, and app design.  
 
-- 📱 **Quote of the Day App (Flask)** → [Repo Link]  
-  *A web app that delivers daily quotes using Flask and Python.*  
 
-- 🗂️ **CLI To-Do App (Python)** → [Repo Link]  
-  *Command-line project management tool built with Python.*  
-
-- 🎮 **2D Dungeon Game (Python)** → [Repo Link]  
-  *Game mechanics inspired by Tibia, Stoneshard, and Ultima — player inventory, NPCs, and combat.*  
+- 📱 **Programming Main Page** → [https://github.com/SDSteele/Programming_Portfolio]  
+ 
 
 ---
 
