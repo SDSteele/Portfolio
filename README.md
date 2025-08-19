@@ -7,51 +7,29 @@ I’ve organized my work into categories so you can easily explore different are
 
 ---
 
-## 🛡️ Cybersecurity Projects  
-Applied penetration testing, network security, and vulnerability analysis.  
+## 🛡️ Cybersecurity Projects  & 🔬 Cyber Lab
+Applied penetration testing, network security, and vulnerability analysis & home lab projects and experiments with security tools, networks, and VMs. → ([Repo Link](https://github.com/SDSteele/Cyber_Labs))  
 
-- 🔍 **Nmap Recon Reports** → [https://github.com/SDSteele/Cyber_Labs/tree/main/nmap]  
-  *Scanning, fingerprinting, and vulnerability analysis of test networks.*  
+---
 
-- 🧰 **Custom Security Scripts** → [https://github.com/SDSteele/Cyber_Labs/tree/main/custom%20security%20scripts]  
-  *Python and Bash scripts for automation, log parsing, and reconnaissance.*  
-
-- ⚔️ **Capture the Flag (CTF) Walkthroughs** → [Repo Link]  
+⚔️ **Capture the Flag (CTF) Walkthroughs** → ([Repo Link](https://github.com/SDSteele/Cybersecurity-CTFs))  
   *Write-ups and solutions for CTF challenges (cryptography, web, reverse engineering).*  
 
 ---
 
 ## 💻 Programming Projects  
-Software development work highlighting problem-solving, algorithms, and app design.  
-
-
-- 📱 **Programming Main Page** → [https://github.com/SDSteele/Programming_Portfolio]  
+Software development work highlighting problem-solving, algorithms, and app design.  → ([Repo Link](https://github.com/SDSteele/Programming_Portfolio))  
  
 
 ---
 
 ## 📚 Class Work  
-Hands-on labs and assignments from formal coursework.  
-
-- 🖥️ **Linux & Shell Scripting (IBM)** → [Repo Link]  
-  *Practical exercises in Linux commands, file systems, and scripting.*  
-
-- 🐍 **Python 3 Specialization (University of Michigan)** → [Repo Link]  
-  *Assignments covering Python basics, OOP, and applied programming projects.*  
+Hands-on labs and assignments from formal coursework.  → ([Repo Link](https://github.com/SDSteele/Classwork_and_Certifications_Portfolio))  
 
 ---
 
 ## 🔬 Cyber Lab Experiments  
-Home lab projects and experiments with security tools, networks, and VMs.  
-
-- 🌐 **Kali Linux Pentesting Lab** → [Repo Link]  
-  *Configured a pentesting environment with VMs, Nmap, Zenmap, and Metasploit.*  
-
-- 🛠️ **SIEM & IDS Testing (Wazuh / Suricata)** → [Repo Link]  
-  *Built and tested log monitoring, packet analysis, and intrusion detection workflows.*  
-
-- 🖧 **Networking & Server Setup** → [Repo Link]  
-  *DNS, port forwarding, and multi-VM environments for simulated attacks and defense.*  
+Home lab projects and experiments with security tools, networks, and VMs. → ([Repo Link](https://github.com/SDSteele/Cyber_Labs))  
 
 ---
 
