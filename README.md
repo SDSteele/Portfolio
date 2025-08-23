@@ -1,4 +1,4 @@
-# Shannon Steele — Cybersecurity & Programming Portfolio  
+# S.D. Steele — Cybersecurity & Programming Portfolio  
 
 Welcome! This is my curated portfolio of **cybersecurity, programming, and technical projects**.  
 My goal is to demonstrate hands-on skills, problem-solving ability, and a commitment to continuous learning.  
