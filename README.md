@@ -7,8 +7,8 @@ I’ve organized my work into categories so you can easily explore different are
 
 ---
 
-## 🛡️ Cybersecurity Projects  & 🔬 Cyber Lab
-Applied penetration testing, network security, and vulnerability analysis & home lab projects and experiments with security tools, networks, and VMs. → ([Repo Link](https://github.com/SDSteele/Cyber_Labs))  
+## 🛡️ Cybersecurity Projects
+Applied penetration testing, network security, and vulnerability analysis → ([Repo Link](https://github.com/SDSteele/Cybersecurity_Portfolio))  
 
 ---
 
