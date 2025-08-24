@@ -12,8 +12,8 @@ Applied penetration testing, network security, and vulnerability analysis → ([
 
 ---
 
-## ⚔️ Capture the Flag (CTF) Walkthroughs → ([Repo Link](https://github.com/SDSteele/Cybersecurity-CTFs))  
-  *Write-ups and solutions for CTF challenges (cryptography, web, reverse engineering).*  
+## ⚔️ Capture the Flag (CTF) Walkthroughs 
+  *Write-ups and solutions for CTF challenges (cryptography, web, reverse engineering).*  → ([Repo Link](https://github.com/SDSteele/Cybersecurity-CTFs))  
 
 ---
 
