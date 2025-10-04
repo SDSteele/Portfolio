@@ -28,13 +28,8 @@ Hands-on labs and assignments from formal coursework.  → ([Repo Link](https://
 
 ---
 
-## 🔬 Cyber Lab Experiments  
-Home lab projects and experiments with security tools, networks, and VMs. → ([Repo Link](https://github.com/SDSteele/Cyber_Labs))  
-
----
-
 ## 📌 About Me  
-- 🎯 Aspiring **Penetration Tester / Security Analyst**  
+- 🎯 **Penetration Tester / Security Analyst**  
 - 🛠️ Skills: Python, C++, Bash, Linux, SQL, Networking, Vulnerability Scanning, Incident Response  
 - 📜 Certifications:  
   - Google Cybersecurity Specialization  
