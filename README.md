@@ -20,7 +20,6 @@ Applied penetration testing, network security, and vulnerability analysis → ([
 ## 💻 Programming Projects  
 Software development work highlighting problem-solving, algorithms, and app design.  → ([Repo Link](https://github.com/SDSteele/Programming_Portfolio))  
  
-
 ---
 
 ## 📚 Class Work  
@@ -28,6 +27,10 @@ Hands-on labs and assignments from formal coursework.  → ([Repo Link](https://
 
 ---
 
+## Cyber Labs
+An area to experiment in my home lab → ([Repo Link](https://github.com/SDSteele/Cyber_Labs)) 
+
+---
 ## 📌 About Me  
 - 🎯 **Penetration Tester / Security Analyst**  
 - 🛠️ Skills: Python, C++, Bash, Linux, SQL, Networking, Vulnerability Scanning, Incident Response  
