@@ -1,6 +1,6 @@
 # S.D. Steele — Cybersecurity & Programming Portfolio  
 
-Welcome! This is my curated portfolio of **cybersecurity, programming, and technical projects**.  
+This is my curated portfolio of **cybersecurity, programming, and technical projects**.  
 My goal is to demonstrate hands-on skills, problem-solving ability, and a commitment to continuous learning.  
 
 I’ve organized my work into categories so you can easily explore different areas of focus.  
